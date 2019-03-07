@@ -1,0 +1,150 @@
+import url from
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.navLink {
+   display: inline;
+   text-decoration: none;
+
+}
+
+ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+li {
+  display: inline;
+}
+
+header li {
+    margin: 20px;
+}
+
+.main-calorie-box {
+  border: 3px solid green;
+ width: 35%;
+ margin: 40px auto;
+ display: flex;
+ flex-direction: column;
+ background: linear-gradient(to right, #b6fbff, #83a4d4);
+ text-align: center;
+}
+
+.main-bmi-box {
+  border: 3px solid green;
+ width: 35%;
+ margin: 40px auto;
+ display: flex;
+ flex-direction: column;
+ background: linear-gradient(to right, #FFAFBD, #C9FFBF);
+ text-align: center;
+}
+
+
+.header-calorie {
+  align-self: center;
+}
+
+.calorie-form {
+  text-align: center;
+}
+
+.added-calorie-form {
+  border: 1px solid green ;
+}
+.added-bmi-form {
+  border: 1px solid green ;
+}
+
+.munrolist {
+  display: flex;
+  justify-content: center;
+}
+
+.form {
+  display: flex;
+  justify-content: center;
+}
+
+.button {
+  display: flex;
+  justify-content: center;
+  margin: 20px
+}
+
+.sunrise {
+  display: flex;
+  justify-content: center;
+  margin: 20px
+}
+
+.link {
+  text-decoration: none;
+  font-family: helvetica;
+}
+
+.navLink {
+  text-decoration: none;
+  font-family: helvetica;
+  color: black;
+  font-weight: 800;
+  font-size: 15px;
+}
+
+.navLink:hover {
+  color: darkgreen;
+}
+
+
+.logo {
+  float: right;
+  font-family: helvetica;
+  font-weight: 1000;
+  font-size: 20px;
+}
+
+.component-single-munro {
+  font-family: 'Special Elite', cursive;
+  font-weight:bold;
+  color: darkgreen;
+
+}
+
+.munro-images{
+  height: 590px;
+  width: 1440px;
+  max-width: 100%;
+}
