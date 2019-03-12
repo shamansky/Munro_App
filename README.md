@@ -3,10 +3,10 @@ Munro Walking App
 
 MVP
 
-A page that shows a leaflet or mapbox map populated by all the munro’s (using a map function) with a clickable link to more information about the specific munro
+A page that shows a leaflet or google map populated by all the munro’s (using a map function) with a clickable link to more information about the specific munro
 A page that has a list populated with all the munro data where you can filter by different properties including height, name, region and anything else we can think of.
-A page with a calculator that takes in the user input to work out how many calories will be burned depending on the munro height. Taking in the user age and bmi.
-A page where you can enter a location and it gives you back data from the sunset/sunrise api
+A page with a calculator that takes in the user input to work out how many calories will be burned depending on the munro height. Taking in the user age and BMI. Another calculator for BMI.
+A page where you can enter a location and it gives you back data from the sunset/sunrise API
 
 Extension
 
