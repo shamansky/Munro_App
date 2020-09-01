@@ -1,4 +1,4 @@
-<h1> Project deployed at https://munro-app.herokuapp.com/home </h1>
+<h1> Project deployed at https://munros-app.herokuapp.com/home </h1>
 
 
 
