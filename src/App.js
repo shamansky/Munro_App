@@ -82,7 +82,7 @@ handleSelectRegion(event){
       } />
 
 
-      <Route exact path = '/' component = {Mouse} />
+      <Route exact path = '/' component = {HomeContainer} />
 
       <Route exact path = '/about' component = {Mouse} />
 

@@ -38,7 +38,7 @@ class CalorieForm extends Component {
     this.setState({name:'', bmi:0})
   }
 
-  
+
 
 
 
